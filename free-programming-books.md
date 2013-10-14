@@ -265,6 +265,8 @@
 * [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels
 * [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
 * [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
+* [Bash Beginner Guide] (http://www.mediafire.com/download/66v4l7gc54l41lw/Bash-Beginners-Guide.pdf)
+* [Bash Advance Guide] (http://www.mediafire.com/download/ys378qyl129lxgd/Bash-Advanced-guide.pdf)
 
 
 ###C
@@ -494,6 +496,7 @@
 * [Secure Programming for Linux and Unix](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO.html)
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf)
+* [Wiley Ubuntu Linux Toolbox 1000+ Commands for Ubuntu and Debian Power Users] (http://www.mediafire.com/download/oo44edi691u8nc9/Wiley.Ubuntu.Linux.Toolbox.1000.plus.Commands.for.Ubuntu.and.Debian.Power.Users.Nov.2007.pdf)
 
 
 ###Lisp
