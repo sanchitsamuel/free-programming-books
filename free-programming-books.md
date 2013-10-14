@@ -276,6 +276,8 @@
 * [Learn C the hard way](http://c.learncodethehardway.org/book/)
 * [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
 * [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* [Head First C] (http://www.mediafire.com/download/obfb3tq9tpg8eaj/C_in_a_nutshell.pdf) (PDF)
+* [C in a NutShell] (http://www.mediafire.com/download/obfb3tq9tpg8eaj/C_in_a_nutshell.pdf) (PDF)
 
 
 ###C++
@@ -286,6 +288,10 @@
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf)
 * [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
 * [Thinking in C++, Second Edition](http://www.mindview.net/Books/TICPP/ThinkingInCPP2e.html)
+* [Jumping into C++] (http://www.mediafire.com/download/p4ynr0np4r045f0/Jumping_into_C%2B.pdf)
+* [C++ for Dummies, 5th Edition] (http://www.mediafire.com/download/j6y8g25dc23w93z/C%2B_For_Dummies%2C_5th_Edition_(2004).pdf)
+* [C++ The complete Refrence, 4th Edition] (http://www.mediafire.com/download/xdskpkybc2rkb7f/C%2B_The_Complete_Reference%2C_4th_Edition.pdf)
+* [Learn to Program with C++] (http://www.mediafire.com/download/xjqxl1r8x2r04y1/Learn_To_Program_With_C%2B_(2003).pdf)
 * Also see: [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
 
 
