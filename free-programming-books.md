@@ -679,6 +679,7 @@
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Snake Wrangling For Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf) (PDF) - Allen B. Downey
+* [Expert Python Programming] (http://www.mediafire.com/download/2bz8c3vw3mfd06c/Expert_Python_Programming_(2008).pdf)
 
 
 ###R
